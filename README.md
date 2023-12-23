@@ -6,6 +6,7 @@
 
    #Guide
 sudo snap install dotnet-sdk --channel=6.0/beta --classic && sudo snap alias dotnet-sdk.dotnet dotnet
+
 sudo apt update
 sudo apt install -y curl libsnappy-dev libc-dev libc6-dev libc6 unzip
 Dwonload Sealink Node.
