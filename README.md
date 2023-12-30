@@ -11,3 +11,4 @@ sudo apt install -y curl libsnappy-dev libc-dev libc6-dev libc6 unzip
 Dwonload Sealink Node  
 Unzip file,run "dotnet Blockcore.Node.dll"  
 Open Browser, input http://localhost:15003  
+M8nRjFcAGVpzTaqaVXp4jXfJw52MvuipHT  
